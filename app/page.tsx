@@ -6,7 +6,7 @@ import Loader from "../components/Loader/Loader"
 import { ppEditorialNewUltralightItalic, inter } from "./fonts"
 import Image from "next/image"
 import Link from "next/link"
-import { usePortfolioData } from "@/hooks/usePortfolioData"
+import { usePortfolioData } from "@/src/hooks/usePortfolioData"
 
 export default function Home() {
   const { data, loading, error } = usePortfolioData()

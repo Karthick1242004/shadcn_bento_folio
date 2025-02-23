@@ -6,7 +6,7 @@ import { FrameComponent } from "./FrameComponent"
 import { Slider } from "@/components/ui/slider"
 import { Button } from "@/components/ui/button"
 import ProjectPopup from "./VideoPopup"
-import { usePortfolioData } from "@/hooks/usePortfolioData"
+import { usePortfolioData } from "@/src/hooks/usePortfolioData"
 
 const GRID_SIZE = 12
 const CELL_SIZE = 60 // pixels per grid cell

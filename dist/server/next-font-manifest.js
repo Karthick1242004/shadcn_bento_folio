@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/karthicks/Desktop/Caliber Templates/shadcnportfolio/app/page\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\"],\"/Users/karthicks/Desktop/Caliber Templates/shadcnportfolio/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
