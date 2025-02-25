@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const DATA_URL = 'https://gist.githubusercontent.com/Karthick1242004/831675b0651315c4dfe139ae452079ab/raw/f45ca5fd73bc449f2cd8c68f876e312e095eeaf6/data.json';
+const DATA_URL = 'https://gist.githubusercontent.com/Karthick1242004/efc121456e5b6d64a2bb1b0a12282100/raw/4e880967aca9d50a48ae392f211fc84f6259f7e7/data.json';
 
 interface Education {
   institution: string;
